@@ -12,6 +12,7 @@
     <button @click="setFilter('all')">All</button>
     <button @click="setFilter('active')">Active</button>
     <button @click="setFilter('completed')">Completed</button>
+    <button @click="setFilter('completed')">Completed</button>
   </div>
 
   
